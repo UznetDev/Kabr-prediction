@@ -74,7 +74,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 2. **Clone the Forked Repository**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Kabr-prediction.git
+    git clone https://github.com/UznetDev/Kabr-prediction.git
     cd Global-Statistics-Dashboard
     ```
 
