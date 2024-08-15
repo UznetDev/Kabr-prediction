@@ -1,6 +1,6 @@
 # Kabr Prediction
 
-Kabr Prediction is a machine learning project designed to predict specific outcomes based on provided data. This project demonstrates the use of various machine learning algorithms and data processing techniques to achieve accurate predictions.
+This model is designed to determine the age of a crab based on its other physical characteristics. Using this model, it is possible to determine the age of a crab through its other data. This project demonstrates the use of various machine learning algorithms and data processing techniques to achieve accurate predictions.
 
 ## Table of Contents
 
