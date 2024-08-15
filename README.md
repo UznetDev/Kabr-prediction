@@ -50,6 +50,7 @@ To explore and run the project:
 
 - `README.md`: Provides an overview of the project, installation instructions, and usage guidelines.
 - `model.ipynb`: Jupyter Notebook containing the machine learning workflow.
+- `test_model.ipynb`: Jupyter Notebook for testing model.
 - `requirements.txt`: A list of required dependencies.
 - `.gitignore`: Specifies files and directories to be ignored by git.
 
