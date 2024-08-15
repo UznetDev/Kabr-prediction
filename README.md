@@ -10,6 +10,7 @@ This model is designed to determine the age of a crab based on its other physica
 - [Libraries Used](#libraries-used)
 - [License](#license)
 - [Contributing](#contributing)
+- [Contact](#contact)
 
 ## <i>Installation</i>
 
